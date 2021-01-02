@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew Lile</title>
-    <link>https://mjlile.com/</link>
+    <link>//mjlile.com/</link>
     <description>Recent content on Matthew Lile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright, Matthew Lile</copyright>
     <lastBuildDate>Fri, 01 Jan 2021 18:02:21 -0500</lastBuildDate>
     
-	<atom:link href="https://mjlile.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//mjlile.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Happy New Year!</title>
-      <link>https://mjlile.com/posts/test_post/</link>
+      <link>//mjlile.com/posts/first_post.html</link>
       <pubDate>Fri, 01 Jan 2021 18:02:21 -0500</pubDate>
       
-      <guid>https://mjlile.com/posts/test_post/</guid>
+      <guid>//mjlile.com/posts/first_post.html</guid>
       <description>To ring in the New Year, I&amp;rsquo;ve started working on a simple personal website. I plan to add career information and make some technical blog posts. Happy New Year!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://mjlile.com/about/</link>
+      <link>//mjlile.com/about.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mjlile.com/about/</guid>
+      <guid>//mjlile.com/about.html</guid>
       <description>I study computer science at the University of Michigan. I previously interned at Amazon.</description>
     </item>
     
