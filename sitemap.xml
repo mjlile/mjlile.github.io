@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//mjlile.com/posts/first_post/</loc>
+    <loc>https://mjlile.com/posts/first_post/</loc>
     <lastmod>2021-01-01T18:02:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>//mjlile.com/</loc>
+    <loc>https://mjlile.com/</loc>
     <lastmod>2021-01-01T18:02:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>//mjlile.com/posts/</loc>
+    <loc>https://mjlile.com/posts/</loc>
     <lastmod>2021-01-01T18:02:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>//mjlile.com/about/</loc>
+    <loc>https://mjlile.com/about/</loc>
   </url>
   
   <url>
-    <loc>//mjlile.com/tags/</loc>
+    <loc>https://mjlile.com/tags/</loc>
   </url>
   
 </urlset>
