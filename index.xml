@@ -14,19 +14,19 @@
     
     <item>
       <title>Happy New Year!</title>
-      <link>//mjlile.com/posts/first_post.html</link>
+      <link>//mjlile.com/posts/first_post/</link>
       <pubDate>Fri, 01 Jan 2021 18:02:21 -0500</pubDate>
       
-      <guid>//mjlile.com/posts/first_post.html</guid>
+      <guid>//mjlile.com/posts/first_post/</guid>
       <description>To ring in the New Year, I&amp;rsquo;ve started working on a simple personal website. I plan to add career information and make some technical blog posts. Happy New Year!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>//mjlile.com/about.html</link>
+      <link>//mjlile.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//mjlile.com/about.html</guid>
+      <guid>//mjlile.com/about/</guid>
       <description>I study computer science at the University of Michigan. I previously interned at Amazon.</description>
     </item>
     
