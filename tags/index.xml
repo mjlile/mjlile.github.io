@@ -7,9 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright, Matthew Lile</copyright>
+    <lastBuildDate>Sat, 24 Jun 2023 16:23:40 -0400</lastBuildDate><atom:link href="https://mjlile.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aws</title>
+      <link>https://mjlile.com/tags/aws/</link>
+      <pubDate>Sat, 24 Jun 2023 16:23:40 -0400</pubDate>
+      
+      <guid>https://mjlile.com/tags/aws/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://mjlile.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>projects</title>
+      <link>https://mjlile.com/tags/projects/</link>
+      <pubDate>Sat, 24 Jun 2023 16:23:40 -0400</pubDate>
+      
+      <guid>https://mjlile.com/tags/projects/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

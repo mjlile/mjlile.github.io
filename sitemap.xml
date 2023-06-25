@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://mjlile.com/tags/aws/</loc>
+    <lastmod>2023-06-24T16:23:40-04:00</lastmod>
+  </url><url>
+    <loc>https://mjlile.com/posts/daily-dickie-videos/</loc>
+    <lastmod>2023-06-24T16:23:40-04:00</lastmod>
+  </url><url>
+    <loc>https://mjlile.com/</loc>
+    <lastmod>2023-06-24T16:23:40-04:00</lastmod>
+  </url><url>
+    <loc>https://mjlile.com/posts/</loc>
+    <lastmod>2023-06-24T16:23:40-04:00</lastmod>
+  </url><url>
+    <loc>https://mjlile.com/tags/projects/</loc>
+    <lastmod>2023-06-24T16:23:40-04:00</lastmod>
+  </url><url>
+    <loc>https://mjlile.com/tags/</loc>
+    <lastmod>2023-06-24T16:23:40-04:00</lastmod>
+  </url><url>
     <loc>https://mjlile.com/about/</loc>
   </url>
-  
-  <url>
-    <loc>https://mjlile.com/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mjlile.com/tags/</loc>
-  </url>
-  
 </urlset>
