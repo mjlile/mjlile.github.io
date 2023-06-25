@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on Matthew Lile</title>
+    <link>https://mjlile.com/tags/projects/</link>
+    <description>Recent content in projects on Matthew Lile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright, Matthew Lile</copyright>
+    <lastBuildDate>Sat, 24 Jun 2023 16:23:40 -0400</lastBuildDate><atom:link href="https://mjlile.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Dickie Videos</title>
+      <link>https://mjlile.com/posts/daily-dickie-videos/</link>
+      <pubDate>Sat, 24 Jun 2023 16:23:40 -0400</pubDate>
+      
+      <guid>https://mjlile.com/posts/daily-dickie-videos/</guid>
+      <description>Dickie, one of my parent&amp;rsquo;s dog, was an adorable pomeranian (see below for evidence). I often got requests to send pictures of him when I would visit home. Unfortunately, that was only once in a while, so I stockpiled some videos of him. I was encouraged to make a website to share new videos of Dickie on a daily basis, loosely inspired by the Wordle craze.
+The implementation is a bit wonky, but it works and it was fun to build.</description>
+    </item>
+    
+  </channel>
+</rss>
